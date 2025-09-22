@@ -28,7 +28,7 @@ My research interests lie in **neural rendering, 3D vision, and deep learning**.
 ---
 
 ## 🏆 Achievements
-- **ICPC Asia Regional Contest (2024):** Bronze Medalist  
+- **ICPC Asia Regional Contest (2024):** Silver Medalist  
 - **IEEE Xtreme (2024):** 2nd Prize  
 - **TuanTi Programming Contest (2025):** National Finals Team 2nd Prize  
 
