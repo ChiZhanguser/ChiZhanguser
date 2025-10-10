@@ -11,13 +11,6 @@ My research interests lie in **neural rendering, 3D vision, and deep learning**.
 
 ---
 
-## 🔬 Research
-**A Generalizable Novel View Synthesis Model Based on LidarNerf**  
-- Replacing the HashGrid encoder with a PointNet++-based neural point-cloud representation to improve generalization across diverse scenes.  
-- Training on multiple datasets and fine-tuning on new scenes, achieving more efficient and higher-quality novel view synthesis.  
-- Exploring potential methods based on LIDAR-GS for future work.  
-
----
 
 ## 🛠 Skills
 - **Programming Languages:** Python, C, C++, Java  
