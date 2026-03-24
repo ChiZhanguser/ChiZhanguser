@@ -17,7 +17,7 @@ My research spans **3D Gaussian Splatting, diffusion models, multimodal large la
 ## 🔬 Research Experience  
 
 ### **Signal Structure-Aware Gaussian Splatting (SIG)**  
-*Core Contributor | ICLR 2026 (Under Review)*  
+*Core Contributor | ICLR 2026 *  
 - Proposed a **frequency-aware training scheduler** for large-scale 3D Gaussian Splatting  
 - Designed adaptive control of **image resolution and Gaussian densification**  
 - Achieved **+0.9 dB PSNR** and **~1.5× training speedup**  
