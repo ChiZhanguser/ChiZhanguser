@@ -1,7 +1,7 @@
 # Chi Zhang (张驰)
 
 **Email:** [chizhang20041101@gmail.com](mailto:chizhang20041101@gmail.com)  
-**Research:** Neural Rendering | 3D Vision | Large-scale AI Systems
+**Research:** Agentic llm | 3D Vision | Large-scale AI Systems | RL
 
 ---
 
