@@ -24,12 +24,7 @@ My research spans **3D Gaussian Splatting, diffusion models, multimodal large la
 
 ---
 
-### **Frequency-Adaptive Diffusion for 3D Reconstruction**  
 *First Author | ACM MM 2026 (Under Review)*  
-- Proposed **frequency-mismatch driven pose densification**  
-- Integrated **diffusion model (DIFIX)** for local detail enhancement  
-- Designed **view-adaptive resolution scheduling** to reduce redundant computation  
-
 ---
 
 ### **Agentic-RTMO: Agent-based Pose Estimation**  
